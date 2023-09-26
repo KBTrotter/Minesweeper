@@ -1,6 +1,6 @@
 # Minesweeper
 
-This a project developed in collaboration with 3 other students in the TechWise Cohort 2 Program for our first group project. We recreated the game Minesweeper with a simple UI and implemented Object Oriented Programming. My primary contributions were the development of the classes (board and cell). 
+### This a project developed in collaboration with 3 other students in the TechWise Cohort 2 Program for our first group project. We recreated the game Minesweeper with a simple UI and implemented Object Oriented Programming. My primary contributions were the development of the classes (board and cell). 
 
 
 ## Documentation:
