@@ -1,5 +1,8 @@
 # Minesweeper
 
+This a project devloped in collaboration with 3 other students in the TechWise Cohort 2 Program for our first group project. We recreated the game Minesweeper with a simple UI and implemented Object Oriented Programming. My primary contributions were the development of the classes (board and cell). 
+
+
 ## Documentation:
 
 ### main.py:
@@ -90,13 +93,4 @@ show_mine method:
 - Changes the background color of the cell's graphical button to "red" to indicate that it contains a mine.
 
 
-## UI Features:
-- [ ] mine counter
-- [X] stopwatch
-- [ ] flags
-- [ ] mines
-- [ ] game over message
-- [ ] flag and uncover buttons
-- [ ] start new game
-- [x] Dropdown
 
